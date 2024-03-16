@@ -1,0 +1,31 @@
+body {
+  background: #000000;
+  background-image: linear-gradient(to top, #000000, #7d3108);
+  text-shadow: -2px -2px #000000;
+}
+
+p {
+  color: #c15d1a;
+}
+
+h3 {
+  color: #009dff;
+}
+
+button {
+  background-color: #000000;
+  color: #fb902d;-
+  border: 2px solid #fb902d;
+  transition-duration: 0.45s;
+  width: 175px;
+  height: 50px;
+}
+
+button:hover {
+  background-color: #ff751a;
+  color: black;
+}
+
+h1 {
+  color: #ff5900;
+}
